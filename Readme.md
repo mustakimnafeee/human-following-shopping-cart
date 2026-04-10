@@ -1,4 +1,4 @@
-![Prototype](images/cart_photo.jpg)
+![Prototype](images/Shopping_cart.jpg)
 
 # Human Following Shopping Cart
 
