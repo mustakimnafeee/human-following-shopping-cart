@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+Flask
+numpy
+gpiozero
+picamera2
