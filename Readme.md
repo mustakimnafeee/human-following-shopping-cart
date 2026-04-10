@@ -37,9 +37,9 @@ python app.py
 
 ## Authors
 
-Md. Mozammel Hossain Fazle Rabbi
-Taimir Tanha Bin Harun
-Ashraf Al-Amin
-Farhana Mehnaz Maisha
-Sabab Muhammad
+Md. Mozammel Hossain Fazle Rabbi,
+Taimir Tanha Bin Harun,
+Ashraf Al-Amin,
+Farhana Mehnaz Maisha,
+Sabab Muhammad,
 Mustakim Billah Nafee
